@@ -1,0 +1,104 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "Elizabeth"
+    },
+    {
+      "id": "17c3",
+      "username": "eli"
+    },
+    {
+      "id": "a7f7",
+      "username": "sssssss"
+    },
+    {
+      "id": "65bc",
+      "username": "GABOINSANE"
+    },
+    {
+      "id": "f684",
+      "username": "GABOINSANE123"
+    },
+    {
+      "id": "3586",
+      "username": "jsjsjs"
+    },
+    {
+      "id": "d6f8",
+      "username": "nznznz"
+    },
+    {
+      "id": "24f0",
+      "username": "znznznz"
+    },
+    {
+      "id": "9068",
+      "username": "nznzn"
+    },
+    {
+      "id": "b351",
+      "username": "GABO45"
+    },
+    {
+      "id": "2a11",
+      "username": "HOLAAAAAAAAAA"
+    },
+    {
+      "id": "e60a",
+      "username": "HOLAAAAAAAA"
+    },
+    {
+      "id": "aaed",
+      "username": "hhhhhhhhhhhhhhhh"
+    },
+    {
+      "id": "d6f8",
+      "username": "GABO6489"
+    },
+    {
+      "id": "0943",
+      "username": "aaaa"
+    },
+    {
+      "id": "b2b4",
+      "username": "ssssss"
+    },
+    {
+      "id": "0d19",
+      "username": "JUANITO"
+    }
+  ],
+  "tareas": [
+    {
+      "id": "be6c",
+      "texto": "asasa",
+      "username_id": "1"
+    },
+    {
+      "id": "a706",
+      "texto": "asasa",
+      "username_id": "1"
+    },
+    {
+      "id": "cbeb",
+      "texto": "zbzbz",
+      "username_id": "1"
+    },
+    {
+      "id": "f401",
+      "texto": "aaaa",
+      "username_id": "0943"
+    },
+    {
+      "id": "9be2",
+      "texto": "ssss",
+      "username_id": "0943"
+    },
+    {
+      "id": "49da",
+      "texto": "ssss",
+      "username_id": "0d19"
+    }
+  ]
+}

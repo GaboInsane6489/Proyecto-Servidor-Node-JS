@@ -1,0 +1,26 @@
+{
+  "name": "proyecto_servidor",
+  "version": "1.0.0",
+  "description": "Servidor local con JSON Server para usuarios y tareas",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3000",
+    "servidor": "npm run server",
+    "abrir": "start http://localhost:3000",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "Gabriel González",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "json-server": "^1.0.0-beta.3",
+    "mongoose": "^8.16.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
